@@ -26,3 +26,13 @@ header h1 {
     font-weight: lighter;
     font-size: 22px;
   }
+
+  .body {
+    display: flex;
+    flex-basis: 30%;
+    margin-top: 5em;
+  }
+
+  .header {
+
+  }
