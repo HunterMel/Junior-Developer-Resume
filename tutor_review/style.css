@@ -1,0 +1,20 @@
+.myText {
+    color: red
+}
+
+.myGroup {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#myText {
+    color: blue
+}
+
+h1 {
+    font-style: italic;
+    color: green;
+}
+
+body {
+    background-color: gold
+}
