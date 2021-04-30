@@ -36,3 +36,17 @@ header h1 {
   .header {
 
   }
+
+  .bottom {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+
+.links {
+  border-style: solid;
+  border-width: thin;
+  width: 600px;
+  margin: auto;
+  border: 3px solid grey
+  
+}
