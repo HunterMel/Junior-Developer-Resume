@@ -1,6 +1,5 @@
 
-<p> <img scr="resume screnshot.png" height "400" />
- </p>
+ <img scr="resume screnshot.png" height "400" />
 
 =======
  Title: Junior Developer Resume 
